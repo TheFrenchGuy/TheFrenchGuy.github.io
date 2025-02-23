@@ -1,7 +1,7 @@
 # timeout
 timeout = "1200s"
 # your website url
-baseURL = 'https://thefrenchguy.github.io'
+baseURL = 'https://noedelacroix.com'
 # website title
 title = 'Personal'
 # don't touch this
