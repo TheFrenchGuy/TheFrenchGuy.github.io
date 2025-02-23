@@ -1,9 +1,0 @@
-baseURL = 'https://thefrenchguy.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-
-# theme as module
-[module]
-replacements = "github.com/Sped0n/bridget/v2 -> bridget"
-[[module.imports]]
-path = "github.com/Sped0n/bridget/v2"
